@@ -1,9 +1,8 @@
-[![Open in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=l23212219-bot/MSFP0)
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l23212219-bot/MSFP0)
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Información de la estudiante
-Nombre completo [l23212219@tijuana.tecnm.mx]
+Sergio Andree Navarro Rodriguez; 23212219; [l23212219@tijuana.tecnm.mx]
 
 Modelado de Sistemas Fisiológicos
 
